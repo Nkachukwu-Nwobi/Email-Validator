@@ -1,0 +1,124 @@
+[
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"test@example.com"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"john@gmail.com"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"support@decagon.com.ng"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"jane@gmail.com"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"sample@yahoo.com"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"student@decagon.dev"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"experiment@deca"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"transform@gmail.com"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"validator@email.co.uk"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"test+example@mail.org"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"almost@valid"
+  },
+  {
+    "[": "}",
+    "field2": ""
+  },
+  {
+    "[": "{"
+  },
+  {
+    "[": "Emails\": \"info@decagon.com.ng"
+  },
+  {
+    "[": "}"
+  },
+  {
+    "[": "]"
+  }
+]
